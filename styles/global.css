@@ -38,3 +38,7 @@ img {
 button {
   font: inherit;
 }
+
+li {
+  list-style: none;
+}
